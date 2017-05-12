@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+<!-- ************************ -->
+<!--         Messages         -->
+<!-- ************************ -->
+
+  <data name="en_project_title"><![CDATA[MOTEL SENSACIONES]]></data>
+  <data name="en_project_author_name"><![CDATA[camaleon360.com]]></data>
+  <data name="en_project_author_url"><![CDATA[http://www.camaleon360.com]]></data>
+
+
+
+  <data name="en_pano14_title"><![CDATA[Entrada]]></data>
+  <data name="en_spotpoint201_tooltip"><![CDATA[Acceso]]></data>
+
+
+  <data name="en_pano9_title"><![CDATA[Acceso]]></data>
+  <data name="en_spotpoint202_tooltip"><![CDATA[Entrada]]></data>
+  <data name="en_spotpoint203_tooltip"><![CDATA[Pasillo 1]]></data>
+
+
+  <data name="en_pano22_title"><![CDATA[Pasillo 1]]></data>
+  <data name="en_spotpoint204_tooltip"><![CDATA[Acceso]]></data>
+  <data name="en_spotpoint205_tooltip"><![CDATA[pasillo 2]]></data>
+  <data name="en_spotpoint227_tooltip"><![CDATA[Imperial-Jacuzzi]]></data>
+
+
+  <data name="en_pano20_title"><![CDATA[Imperial-Sala]]></data>
+  <data name="en_spotpoint229_tooltip"><![CDATA[Imperial-Habitacion 2]]></data>
+  <data name="en_spotpoint230_tooltip"><![CDATA[Imperial-Habitacion 3]]></data>
+  <data name="en_spotpoint231_tooltip"><![CDATA[Imperial-Habitacion 4]]></data>
+  <data name="en_spotpoint232_tooltip"><![CDATA[Imperial-Jacuzzi]]></data>
+
+
+  <data name="en_pano19_title"><![CDATA[Imperial-Jacuzzi]]></data>
+  <data name="en_spotpoint224_tooltip"><![CDATA[Imperial-Sala]]></data>
+  <data name="en_spotpoint225_tooltip"><![CDATA[Imperial-Habitacion 1]]></data>
+  <data name="en_spotpoint226_tooltip"><![CDATA[Pasillo 1]]></data>
+
+
+  <data name="en_pano15_title"><![CDATA[Imperial-Habitacion 1]]></data>
+  <data name="en_spotpoint228_tooltip"><![CDATA[Imperial-Jacuzzi]]></data>
+
+
+  <data name="en_pano16_title"><![CDATA[Imperial-Habitacion 2]]></data>
+  <data name="en_spotpoint234_tooltip"><![CDATA[Imperial-Sala]]></data>
+
+
+  <data name="en_pano17_title"><![CDATA[Imperial-Habitacion 3]]></data>
+  <data name="en_spotpoint233_tooltip"><![CDATA[Imperial-Sala]]></data>
+
+
+  <data name="en_pano18_title"><![CDATA[Imperial-Habitacion 4]]></data>
+  <data name="en_spotpoint236_tooltip"><![CDATA[Imperial-Sala]]></data>
+
+
+  <data name="en_pano23_title"><![CDATA[Pasillo 2]]></data>
+  <data name="en_spotpoint206_tooltip"><![CDATA[Pasillo 1]]></data>
+  <data name="en_spotpoint209_tooltip"><![CDATA[Pasillo 3]]></data>
+  <data name="en_spotpoint237_tooltip"><![CDATA[Sensaciones]]></data>
+  <data name="en_spotpoint238_tooltip"><![CDATA[Sensaciones]]></data>
+  <data name="en_spotpoint239_tooltip"><![CDATA[Sensaciones]]></data>
+  <data name="en_spotpoint240_tooltip"><![CDATA[Sensaciones]]></data>
+  <data name="en_spotpoint241_tooltip"><![CDATA[Sensaciones]]></data>
+  <data name="en_spotpoint242_tooltip"><![CDATA[Sensaciones]]></data>
+
+
+  <data name="en_pano28_title"><![CDATA[Sensaciones]]></data>
+  <data name="en_spotpoint243_tooltip"><![CDATA[Pasillo 2]]></data>
+
+
+  <data name="en_pano24_title"><![CDATA[Pasillo 3]]></data>
+  <data name="en_spotpoint210_tooltip"><![CDATA[Pasillo 2]]></data>
+  <data name="en_spotpoint211_tooltip"><![CDATA[Pasillo 4]]></data>
+  <data name="en_spotpoint341_tooltip"><![CDATA[Roja]]></data>
+  <data name="en_spotpoint342_tooltip"><![CDATA[Roja]]></data>
+  <data name="en_spotpoint343_tooltip"><![CDATA[Africa]]></data>
+  <data name="en_spotpoint344_tooltip"><![CDATA[Roja]]></data>
+  <data name="en_spotpoint345_tooltip"><![CDATA[Jungla]]></data>
+  <data name="en_spotpoint346_tooltip"><![CDATA[Jungla]]></data>
+
+
+  <data name="en_pano26_title"><![CDATA[Roja]]></data>
+  <data name="en_spotpoint350_tooltip"><![CDATA[Pasillo 3]]></data>
+
+
+  <data name="en_pano10_title"><![CDATA[Africa]]></data>
+  <data name="en_spotpoint348_tooltip"><![CDATA[Pasillo 3]]></data>
+
+
+  <data name="en_pano21_title"><![CDATA[Jungla]]></data>
+  <data name="en_spotpoint349_tooltip"><![CDATA[Pasillo 3]]></data>
+
+
+  <data name="en_pano25_title"><![CDATA[Pasillo 4]]></data>
+  <data name="en_spotpoint212_tooltip"><![CDATA[pasillo 3]]></data>
+  <data name="en_spotpoint213_tooltip"><![CDATA[Acceso]]></data>
+  <data name="en_spotpoint245_tooltip"><![CDATA[Arabe vip]]></data>
+  <data name="en_spotpoint246_tooltip"><![CDATA[Arabe]]></data>
+  <data name="en_spotpoint247_tooltip"><![CDATA[Sado]]></data>
+  <data name="en_spotpoint248_tooltip"><![CDATA[Sado]]></data>
+  <data name="en_spotpoint249_tooltip"><![CDATA[Sado]]></data>
+  <data name="en_spotpoint250_tooltip"><![CDATA[Sado]]></data>
+
+
+  <data name="en_pano11_title"><![CDATA[Arabe Vip]]></data>
+  <data name="en_spotpoint339_tooltip"><![CDATA[Pasillo 4]]></data>
+
+
+  <data name="en_pano27_title"><![CDATA[Sado]]></data>
+  <data name="en_spotpoint347_tooltip"><![CDATA[Pasillo 4]]></data>
+
+
+  <data name="en_pano107_title"><![CDATA[Arabe]]></data>
+  <data name="en_spotpoint340_tooltip"><![CDATA[Pasillo 4]]></data>
+
+
+
+
+	<data name="en_project_floor_title"><![CDATA[MOTEL SENSACIONES]]></data>
+	<data name="en_spotmap490_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap491_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap492_tooltip"><![CDATA[Arabe]]></data>
+	<data name="en_spotmap493_tooltip"><![CDATA[Arabe]]></data>
+	<data name="en_spotmap494_tooltip"><![CDATA[Arabe Vip]]></data>
+	<data name="en_spotmap496_tooltip"><![CDATA[Sado]]></data>
+	<data name="en_spotmap497_tooltip"><![CDATA[Sado]]></data>
+	<data name="en_spotmap498_tooltip"><![CDATA[Jungla]]></data>
+	<data name="en_spotmap499_tooltip"><![CDATA[Jungla]]></data>
+	<data name="en_spotmap500_tooltip"><![CDATA[africa]]></data>
+	<data name="en_spotmap501_tooltip"><![CDATA[africa]]></data>
+	<data name="en_spotmap503_tooltip"><![CDATA[Roja]]></data>
+	<data name="en_spotmap504_tooltip"><![CDATA[Roja]]></data>
+	<data name="en_spotmap505_tooltip"><![CDATA[Roja]]></data>
+	<data name="en_spotmap506_tooltip"><![CDATA[Roja]]></data>
+	<data name="en_spotmap508_tooltip"><![CDATA[Roja]]></data>
+	<data name="en_spotmap509_tooltip"><![CDATA[Sensaciones]]></data>
+	<data name="en_spotmap510_tooltip"><![CDATA[Sensaciones]]></data>
+	<data name="en_spotmap511_tooltip"><![CDATA[Sensaciones]]></data>
+	<data name="en_spotmap512_tooltip"><![CDATA[Sensaciones]]></data>
+	<data name="en_spotmap513_tooltip"><![CDATA[Sensaciones]]></data>
+	<data name="en_spotmap514_tooltip"><![CDATA[Sensaciones]]></data>
+	<data name="en_spotmap515_tooltip"><![CDATA[Sensaciones]]></data>
+	<data name="en_spotmap516_tooltip"><![CDATA[Sensaciones]]></data>
+	<data name="en_spotmap517_tooltip"><![CDATA[Sensaciones]]></data>
+	<data name="en_spotmap518_tooltip"><![CDATA[Sensaciones]]></data>
+	<data name="en_spotmap520_tooltip"><![CDATA[Sensaciones]]></data>
+	<data name="en_spotmap521_tooltip"><![CDATA[Sensaciones]]></data>
+	<data name="en_spotmap523_tooltip"><![CDATA[Sensaciones]]></data>
+	<data name="en_spotmap524_tooltip"><![CDATA[Sensaciones]]></data>
+	<data name="en_spotmap525_tooltip"><![CDATA[Sensaciones]]></data>
+	<data name="en_spotmap526_tooltip"><![CDATA[Sensaciones]]></data>
+	<data name="en_spotmap527_tooltip"><![CDATA[Sensaciones]]></data>
+	<data name="en_spotmap528_tooltip"><![CDATA[Sensaciones]]></data>
+	<data name="en_spotmap530_tooltip"><![CDATA[Sensaciones]]></data>
+	<data name="en_spotmap531_tooltip"><![CDATA[Sensaciones]]></data>
+	<data name="en_spotmap532_tooltip"><![CDATA[Imperial-Jacuzzi]]></data>
+	<data name="en_spotmap534_tooltip"><![CDATA[Imperial-Habitacion 1]]></data>
+	<data name="en_spotmap535_tooltip"><![CDATA[Imperial-Habitacion 2]]></data>
+	<data name="en_spotmap536_tooltip"><![CDATA[Imperial-Habitacion 3]]></data>
+	<data name="en_spotmap537_tooltip"><![CDATA[Imperial-Habitacion 4]]></data>
+	<data name="en_spotmap538_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap584_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap586_tooltip"><![CDATA[Sensaciones]]></data>
+	<data name="en_spotmap588_tooltip"><![CDATA[Sado]]></data>
+	<data name="en_spotmap592_tooltip"><![CDATA[Roja]]></data>
+	<data name="en_spotmap593_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap594_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap595_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap596_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap597_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap598_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap599_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap600_tooltip"><![CDATA[]]></data>
+
+
+  <data name="en_controlBar_izoomInTip"><![CDATA[Aproximar]]></data>
+  <data name="en_controlBar_izoomOutTip"><![CDATA[Alejarse]]></data>
+  <data name="en_controlBar_imoveLeftTip"><![CDATA[Mover a la izquierda]]></data>
+  <data name="en_controlBar_imoveRightTip"><![CDATA[Mover a la Derecha]]></data>
+  <data name="en_controlBar_imoveUpTip"><![CDATA[Mover hacia Arriba]]></data>
+  <data name="en_controlBar_imoveDownTip"><![CDATA[Mover hacia Abajo]]></data>
+  <data name="en_controlBar_ihomeTip"><![CDATA[Inicio]]></data>
+  <data name="en_controlBar_iopenFsTip"><![CDATA[Introducir Pantalla Completa]]></data>
+  <data name="en_controlBar_icloseFsTip"><![CDATA[Salir de Pantalla completa]]></data>
+  <data name="en_controlBar_iautorotateOnTip"><![CDATA[Iniciar la rotación automática]]></data>
+  <data name="en_controlBar_iautorotateOffTip"><![CDATA[Detener la Rotación Automática]]></data>
+  <data name="en_controlBar_idisplayFloorplanTip"><![CDATA[Mostrar Plano]]></data>
+  <data name="en_controlBar_ihideFloorplanTip"><![CDATA[Ocultar Plano]]></data>
+  <data name="en_controlBar_idisplayHelpTip"><![CDATA[Mostrar Pantalla de Ayuda]]></data>
+  <data name="en_controlBar_ihideHelpTip"><![CDATA[Ocultar Pantalla de Ayuda]]></data>
+  <data name="en_controlBar_idisplayControlsTip"><![CDATA[Mostrar Controles]]></data>
+  <data name="en_controlBar_ihideControlsTip"><![CDATA[Ocultar los Controles]]></data>
+  <data name="en_contextmenuopenwebsitelabel1"><![CDATA[www.camaleon360.com]]></data>
+  <data name="en_contextmenuwebsiteurl1"><![CDATA[http://www.camaleon360.com]]></data>
+  <data name="en_contextmenuopenFsLabel"><![CDATA[Introducir Pantalla Completa]]></data>
+  <data name="en_contextmenucloseFsLabel"><![CDATA[Salir de vista de Pantalla Completa]]></data>
+  <data name="en_contextmenunormallabel"><![CDATA[Vista normal]]></data>
+  <data name="en_contextmenufisheyelabel"><![CDATA[Vista de Ojo de Pez]]></data>
+  <data name="en_contextmenuarchitecturallabel"><![CDATA[Vista Arquitectural]]></data>
+  <data name="en_contextmenustereographiclabel"><![CDATA[Vista Estereográfica]]></data>
+  <data name="en_contextmenupanninilabel"><![CDATA[Vista Pannini]]></data>
+  <data name="en_contextmenulittleplanetlabel"><![CDATA[Vista de Planeta Pequeño]]></data>
+  <data name="en_contextmenufisheyeballlabel"><![CDATA[Vista de Bola de Ojo de Pez]]></data>
+  <data name="en_logowebsiteurl"><![CDATA[http://motelsensaciones.com/]]></data>
+  <data name="en_logotooltipText"><![CDATA[Abrir sitio web]]></data>
+  <data name="en_floorPlanmenu_label"><![CDATA[Seleccione un plano]]></data>
+  <data name="en_logo1websiteurl"><![CDATA[http://camaleon360.com/es/]]></data>
+  <data name="en_logo1tooltipText"><![CDATA[Abrir sitio web]]></data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</krpano>
